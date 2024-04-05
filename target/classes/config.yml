@@ -1,0 +1,9 @@
+# chance sets the rate at which a bad placement happens
+#
+# ex: 1/100 = 0.01, chance is currently set to place tnt/lava about 1 in every 100 attempts
+chance: 0.01
+# tntDelay sets how long the tnt will take to explode, the
+# number represents ticks. there are 20 ticks in a second
+#
+# ex: 15 ticks = 3/4s of a second until tnt will explode
+tntDelay: 15

@@ -1,0 +1,4 @@
+name: BuildNBoom
+version: '1'
+main: me.flyingtaco725.buildnboom.BuildNBoom
+api-version: '1.20'
